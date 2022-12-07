@@ -10,3 +10,4 @@ https://stackoverflow.com/questions/73359784/unity-editor-crashes-when-opening-p
 (Youtube - Mi mismo error)
 https://www.google.com/search?q=unity+has+stopped+working&oq=&aqs=chrome.0.35i39i362l8.48677641j0j15&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:e76532b3,vid:i2eqANffrhg
 
+Sigo sin poder arretglar los errores
