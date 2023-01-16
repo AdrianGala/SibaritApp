@@ -1,0 +1,1 @@
+curl --location --request POST "https://data.mongodb-api.com/app/data-zieea/endpoint/data/v1/action/findOne" --header "Content-Type: application/json" --header "Access-Control-Request-Headers: *" --header "api-key: 639a388823558973cb540baa" --data-raw "{"collection":"MisDatos", "database":"BBDD_SibaritApp", "dataSource":"AdrianGala", "projection": {"_id": 1}}"
