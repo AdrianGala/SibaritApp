@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="Assets/UnityNativeFilePicker-1.3.0/.github/AAR Source (Android)/java"/>
-	<classpathentry kind="src" path="Assets/UnityNativeGallery-master/.github/AAR Source (Android)/java"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
